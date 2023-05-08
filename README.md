@@ -9,7 +9,7 @@ Install required dependencies: pip install -r requirements.txt
 # Usage
 Navigate to the project directory: cd library-management-system
 Run the script: python library_management.py
-#Features
+# Features
 Add new books: Allows the librarian to add new books to the library database.
 Delete books: Allows the librarian to delete books from the library database.
 Display available books: Displays a list of all available books in the library.
@@ -18,5 +18,5 @@ Return books: Allows the user to return a book to the library.
 #Contribution:
 Contributions are always welcome! If you find any bugs or want to suggest new features, please create an issue or send a pull request.
 
-#License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
